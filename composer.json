@@ -3,7 +3,7 @@
   "type": "library",
   "description": "PHP Live application toolset",
   "keywords": ["WebSockets", "Server", "Aquill", "Sockets", "Live", "SPA"],
-  "homepage": "none",
+  "homepage": "https://github.com/d3n4/Aquill",
   "license": "MIT",
 
   "authors": [
