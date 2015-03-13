@@ -1,0 +1,34 @@
+{
+  "name": "d3n4/aquill",
+  "type": "library",
+  "description": "PHP Live application toolset",
+  "keywords": ["WebSockets", "Server", "Aquill", "Sockets", "Live", "SPA"],
+  "homepage": "none",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Mechislav Lipskiy",
+      "email": "id110099122@gmail.com",
+      "role": "Developer"
+    }
+  ],
+
+  "support": {
+    "forum":  "none",
+    "issues": "https://github.com/d3n4/Aquill/issues",
+    "irc":    "none"
+  },
+
+  "autoload": {
+    "psr-0": {
+      "Aquill": "src"
+    }
+  },
+
+  "require": {
+    "php": ">=5.4",
+    "cboden/ratchet": "0.3.*",
+    "symfony/console": "~2.6"
+  }
+}
