@@ -15,9 +15,7 @@
   ],
 
   "support": {
-    "forum":  "none",
-    "issues": "https://github.com/d3n4/Aquill/issues",
-    "irc":    "none"
+    "issues": "https://github.com/d3n4/Aquill/issues"
   },
 
   "autoload": {
